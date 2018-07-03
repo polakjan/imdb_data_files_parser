@@ -1,0 +1,5 @@
+usage: php parser.php <command> <source file> <output file>
+
+Available commands:
+    analyze	analyze a file and suggest a schema
+    load	load data from a file and convert to SQL (needs an output file)
